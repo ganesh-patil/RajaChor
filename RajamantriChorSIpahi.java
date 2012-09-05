@@ -2,7 +2,8 @@ public class Rajamantri extends Activity {
     
 	
 	@Override
-	public void onbackpressed() {
+        //oewritten methon ue cant change name 
+	public void onbackpressed() {     
 		
 
 		
